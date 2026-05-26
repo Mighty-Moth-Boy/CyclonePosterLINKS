@@ -4,7 +4,11 @@ This repo is under the **MIT License**, which you can <a href="https://github.co
 <br>
 # 📄 Contents
 1. <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS/blob/main/README.md#image-sources">Image Sources</a>
-2.
+2. <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS/blob/main/README.md#information-sources">Information Sources</a>
 3.
 # 🏞️ Image Sources
 1. <b>Satilite image of "1992 Tropical Cyclone FRAN" near max intensity. CREDIT: <a href="https://bit.ly/FRANImage">Click here</a> (ncics.org)
+2.
+3.
+# ℹ️ Information Sources
+Most information on the physical poster was found by searching <a href="google.com/search?q=cyclone%20facts">"cyclone facts" on Google</a>, some related searches were made as well.
