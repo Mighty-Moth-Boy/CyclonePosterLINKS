@@ -13,4 +13,4 @@ This repo is under the **MIT License**, which you can <a href="https://github.co
 # ℹ️ Information Sources
 Most information on the physical poster was found by searching <a href="https://google.com/search?q=cyclone%20facts">"cyclone facts" on Google</a>, some related searches were made as well.
 # 🌀Cyclone Facts
-Please refer to /pages/facts.md for cyclone facts.
+Please refer to <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS/blob/main/pages/facts.md">/pages/facts.md</a> for cyclone facts.
