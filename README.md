@@ -12,4 +12,5 @@ This repo is under the **MIT License**, which you can <a href="https://github.co
 3.
 # ℹ️ Information Sources
 Most information on the physical poster was found by searching <a href="https://google.com/search?q=cyclone%20facts">"cyclone facts" on Google</a>, some related searches were made as well.
-# Cyclone Facts
+# 🌀Cyclone Facts
+Please refer to /pages/facts.md for cyclone facts.
