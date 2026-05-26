@@ -1,2 +1,2 @@
-# CyclonePosterLINKS
-This is a sort of "landing page" for a poster I did @ school one year.
+# Cyclone Poster Landing Page
+Welcome to the Cyclone Poster Landing Page! This is a little thing on GitHub where you can view credits for images, see information sources, and more!
