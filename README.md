@@ -3,7 +3,7 @@ Welcome to the Cyclone Poster Landing Page! This is a little thing on GitHub whe
 This repo is under the **MIT License**.
 <br>
 # Contents
-1. <a href="#ImageSources">Image Sources</a>
+1. <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS/blob/main/README.md#image-sources">Image Sources</a>
 2.
 3.
 # Image Sources
