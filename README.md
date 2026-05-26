@@ -7,4 +7,4 @@ This repo is under the **MIT License**.
 2.
 3.
 # Image Sources
-1. <b>Satilite image of "1992 Tropical Cyclone FRAN" near max intensity. CREDIT: <a href="https://bit.ly/FRANImage">Click here</a>(ncics.org)
+1. <b>Satilite image of "1992 Tropical Cyclone FRAN" near max intensity. CREDIT: <a href="https://bit.ly/FRANImage">Click here</a> (ncics.org)
