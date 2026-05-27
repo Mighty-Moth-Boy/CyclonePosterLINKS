@@ -1,5 +1,6 @@
 # Cyclone Poster Landing Page
 <i>You are at</i>: <a href="https://github.com">GitHub.com</a> -> <a href="https://github.com/Mighty-Moth-Boy">Mighty-Moth-Boy (user)</a> -> <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS">CyclonePosterLINKS (repo)</a> -> <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS/blob/main/README.md">README.md</a>
+
 Welcome to the Cyclone Poster Landing Page! This is a little thing on GitHub where you can view credits for images, see information sources, and more!
 This repo is under the **MIT License**, which you can <a href="https://github.com/Mighty-Moth-Boy/CyclonePosterLINKS/blob/main/LICENSE">view here</a>.
 <br>
