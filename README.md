@@ -14,7 +14,7 @@ This repo is under the **MIT License**, which you can <a href="https://github.co
 <ul>
 <li><b>Satilite image of "1992 Tropical Cyclone FRAN" near max intensity. CREDIT: <a href="https://bit.ly/FRANImage">Click here</a> (ncics.org)</li>
 <li></li>
-<li></li>2
+<li></li>
 </ul>
 ## ℹ️ Information Sources
 Most information on the physical poster was found by searching <a href="https://google.com/search?q=cyclone%20facts">"cyclone facts" on Google</a>, some related searches were made as well.
